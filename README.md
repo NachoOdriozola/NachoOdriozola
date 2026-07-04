@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**NachoOdriozola/NachoOdriozola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ignacio
 
-Here are some ideas to get you started:
+I am a second year Informatics Engineering student from Argentina.  
+I am interested in designing and building complete software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current project  
+
+> #### Messaging system
+>  
+> A complete client-server messaging system built in C, providing a desktop messaging application for end users.
+> A long-term personal project focused on software architecture, system design and maintainable code.
+> 
+> Features:  
+> - Client/Server architecture.
+> - User management.
+> - Contact management.
+> - Real-time messaging.
+> - Conversation history.
+
+### Skills  
+
+> #### Languages
+> 
+> - C
+> - Python
+> 
+> #### Tools
+> 
+> - Git
+> - CMake
+> - SQLite
+> - CSFML
+> - libsodium
