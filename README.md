@@ -1,8 +1,7 @@
 
 ## Ignacio
 
-I am a second year Informatics Engineering student from Argentina.  
-I am interested in designing and building complete software systems.
+I am a second year Informatics Engineering student from Argentina interested in designing and building complete software systems.
 
 ### Current project  
 
