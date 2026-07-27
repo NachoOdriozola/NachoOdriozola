@@ -23,6 +23,7 @@ I am a second year Informatics Engineering student from Argentina interested in 
 > 
 > - C
 > - Python
+> - SQL
 > 
 > #### Tools
 > 
